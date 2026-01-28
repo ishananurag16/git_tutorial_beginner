@@ -5,4 +5,5 @@ the best ways are:
 - Sleep
 - Code
 - Repeat
-Thank You.
+
+Thank You!
